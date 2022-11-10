@@ -8,7 +8,8 @@ body {
 .gamepadhome_TabbedContent_cE1Sa, .basicappdetailssectionstyler_AppDetailsRoot_3fp5y, .downloads_DownloadsPage_1bq4x,
 .gamepadpagedsettings_PagedSettingDialog_ContentColumn_3JPle, .controllerconfigurator_ControllerConfiguratorMain_APY6j,
 .gamepadlibrary_GamepadLibrary_ZBBhe, .multiChatDialog.GamepadMode.gpfocuswithin, .GamepadMode .multiChatDialog.gpfocuswithin,
-.multiChatDialog.GamepadMode, .GamepadMode .multiChatDialog, .quickaccessmenu_QuickAccessMenu_V0cr- {
+.multiChatDialog.GamepadMode, .GamepadMode .multiChatDialog, .quickaccessmenu_QuickAccessMenu_V0cr-,
+.gamepadui_BasicHome_3LYP1.gamepadui_OpaqueBackground_b084m, .lockscreen_Container_3rFFU  {
     /* custom background goes here */
     background: #000;
 }
