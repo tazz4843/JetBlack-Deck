@@ -1,0 +1,10 @@
+{
+  "include": [
+    "patches/spacey_background.css",
+    "wallpapers/potw1749a.jpg",
+    "LICENSE"
+  ],
+  "ignore": [
+    ".git"
+  ]
+}

@@ -20,15 +20,5 @@
         "No": {}
       }
     }
-  },
-  "include": [
-    "patches/enable_custom_font.css",
-    "patches/spacey_background.css",
-    "wallpapers/potw1749a.jpg",
-    "LICENSE",
-    "shared.css"
-  ],
-  "ignore": [
-    ".git"
-  ]
+  }
 }
