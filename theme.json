@@ -1,0 +1,24 @@
+{
+  "name": "JetBlack",
+  "author": "tazz4843",
+  "manifest_version": 4,
+  "version": "1.0",
+  "description": "A truly dark dark theme, with subtle shading. Incredibly minimalistic and opinionated, mildly customizable.",
+  "inject": {
+    "shared.css": ["QuickAccess", "MainMenu", "Toast", "SP"]
+  },
+  "target": "System-Wide",
+
+  "patches": {
+    "Enable Custom Font (JetBrains Mono)": {
+      "default": "No",
+      "type": "checkbox",
+      "values": {
+        "Yes": {
+          "patches/enable_custom_font.css": ["QuickAccess", "MainMenu", "Toast", "SP"]
+        },
+        "No": {}
+      }
+    }
+  }
+}

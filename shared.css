@@ -1,0 +1,149 @@
+body {
+    --subtle-border: #181818;
+    --focused-border: #333;
+
+    --focused-background: #111;
+}
+
+.gamepadhome_TabbedContent_cE1Sa, .basicappdetailssectionstyler_AppDetailsRoot_3fp5y, .downloads_DownloadsPage_1bq4x,
+.gamepadpagedsettings_PagedSettingDialog_ContentColumn_3JPle, .controllerconfigurator_ControllerConfiguratorMain_APY6j,
+.gamepadlibrary_GamepadLibrary_ZBBhe, .multiChatDialog.GamepadMode.gpfocuswithin, .GamepadMode .multiChatDialog.gpfocuswithin,
+.multiChatDialog.GamepadMode, .GamepadMode .multiChatDialog, .quickaccessmenu_QuickAccessMenu_V0cr- {
+    /* custom background goes here */
+    background: #000;
+}
+
+.gamepadhomerecentgames_RecentGamesBackgroundFadeGradient_1ksIq,
+.gamepadhomewhatsnew_EventInfo_6TGe7, .recentlycompleted_RecentlyCompletedItem_3OC7i,
+.recentlycompleted_BottomSection_3LyF6, .gamecapsule_GameCapsule_fXdhj .gamecapsule_BottomBar_3-GyQ,
+.gamepadhomefriends_InGameGame_KLo2n, .BasicUI .appactivityday_Event_UVeN0 .appactivityday_EventHeadline_QCKBq,
+.BasicUI .appactivityday_Event_UVeN0 .appactivityday_EventBody_NEMXh, .basiccontextmenu_contextMenuItem_3PqLg,
+.BasicUI .spotlightgameplaysummary_SummaryCarouselContainer_wgbDI,
+.BasicUI .appdetailssection_AppDetailsSectionContainer_31ptF.appdetailssection_RightColumnSection_3KfxI,
+.BasicUI .posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2,
+.appactivityday_PartnerEventTextOnly_3QRf-, .appactivityday_PartnerEventLargeImage_Container_Libri,
+.appactivityday_PartnerEventMediumImage_Container_1HZy7, .BasicUI .appdetailscommunityfeed_CommunityItem_3QS6O,
+.appdetailsgameinfopanel_DeckVerifiedInfo_IIJei, .BasicUI .appdetailsprimarylinkssection_Anchor_DY4_w,
+.BasicUI .appdetailssection_Highlight_38t1m, .gamepadpagedsettings_PagedSettingsDialog_PageListItem_1ix7r:focus,
+.BasicUI button.DialogButton.appdetailsbutton_AppDetailsButton_3Cdin.appdetailsbutton_BottomRight_3nJyY:not(.gpfocus),
+.appdetailsachievementssection_AchievementCarouselItem_mbFSn.appdetailsachievementssection_Detailed_3KGi6,
+.gamepadpagedsettings_PagedSettingsDialog_PageListColumn_2EZ3o, .gamepaddialog_BasicTextInput_3GCBi,
+.gamepaddialog_BasicTextInput_3GCBi:not(.disabled):not(.gpfocus):hover,
+.appproperties_AppProperties_1FyBL .appproperties_Checkbox_2V2nc, button.gamepaddialog_Button_1kn70.DialogButton,
+button.gamepaddialog_Button_1kn70.DialogButton.Primary, button.gamepaddialog_Button_1kn70.DialogButton:enabled,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled.Primary, button.gamepaddialog_Button_1kn70.DialogButton:active,
+button.gamepaddialog_Button_1kn70.DialogButton:active.Primary, button.gamepaddialog_Button_1kn70.DialogButton:hover,
+button.gamepaddialog_Button_1kn70.DialogButton:hover.Primary, .apppartnereventspage_PartnerEvent_lwprN,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover.Primary,
+.gamepadpagedsettings_PagedSettingsDialog_PageListItem_1ix7r.gamepadpagedsettings_Active_22LLB,
+.gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocus,
+.gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocuswithin,
+.appproperties_AppProperties_1FyBL .DialogBody .appproperties_DlcGrid_3sXdO .appproperties_DlcHeader_1SKB0,
+.appproperties_AppProperties_1FyBL .DialogBody .appproperties_WorkshopGrid_2ZL5A .appproperties_WorkshopHeader_2TJyz,
+.apppartnereventspage_PartnerEvent_lwprN, .apppartnereventspage_PartnerEvent_lwprN, .GamepadMode.friendlist.gpfocuswithin,
+.GamepadMode.friendlist.gpfocuswithin .FriendsListSteamDeckTopSection, .GamepadMode.friendlist {
+    background: #000;
+    animation-name: none;
+}
+
+.basiccontextmenu_contextMenuItem_3PqLg.basiccontextmenu_Focused_3t3Zg,
+.basiccontextmenu_contextMenuItem_3PqLg.basiccontextmenu_SubMenu_3O4Ic.basiccontextmenu_active_27ULO
+button.gamepaddialog_Button_1kn70.DialogButton.gpfocus,
+button.gamepaddialog_Button_1kn70.DialogButton:active,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled.gpfocus,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled:active,
+button.gamepaddialog_Button_1kn70.DialogButton:active.gpfocus,
+button.gamepaddialog_Button_1kn70.DialogButton:active:active,
+button.gamepaddialog_Button_1kn70.DialogButton:hover.gpfocus,
+button.gamepaddialog_Button_1kn70.DialogButton:hover:active,
+.appproperties_AppProperties_1FyBL .DialogBody .appproperties_WorkshopGrid_2ZL5A .appproperties_WorkshopHeader_2TJyz:hover,
+.friendStatusHover.offline:hover, .friendStatusHover.offline.Friend_ContextMenuActive, .friendStatusHover.gpfocus,
+.quickaccessmenu_Tab_1S76C.quickaccessmenu_Selected_2QHMu {
+    background-color: #111 !important;
+    color: #fff !important;
+}
+
+.gamepadhomewhatsnew_EventInfo_6TGe7, .recentlycompleted_RecentlyCompletedItem_3OC7i, .recentlycompleted_BottomSection_3LyF6,
+.gamecapsule_GameCapsule_fXdhj .gamecapsule_BottomBar_3-GyQ, .gamepadhomefriends_InGameGame_KLo2n,
+.BasicUI .appactivityday_Event_UVeN0 .appactivityday_EventHeadline_QCKBq, .appactivityday_PartnerEventLargeImage_Container_Libri,
+.BasicUI .appactivityday_Event_UVeN0 .appactivityday_EventBody_NEMXh, .basiccontextmenu_contextMenuItem_3PqLg,
+.BasicUI .spotlightgameplaysummary_SummaryCarouselContainer_wgbDI, .appactivityday_PartnerEventTextOnly_3QRf-,
+.BasicUI .appdetailssection_AppDetailsSectionContainer_31ptF.appdetailssection_RightColumnSection_3KfxI,
+.posttextentry_PostTextEntry_3x31A .posttextentry_PostTextEntryArea_1JlC2, .appdetailsgameinfopanel_DeckVerifiedInfo_IIJei,
+.appactivityday_PartnerEventMediumImage_Container_1HZy7, .BasicUI .appdetailscommunityfeed_CommunityItem_3QS6O,
+.BasicUI .appdetailsprimarylinkssection_Anchor_DY4_w, .BasicUI .appdetailssection_Highlight_38t1m,
+.BasicUI button.DialogButton.appdetailsbutton_AppDetailsButton_3Cdin.appdetailsbutton_BottomRight_3nJyY:not(.gpfocus),
+.appdetailsachievementssection_AchievementCarouselItem_mbFSn.appdetailsachievementssection_Detailed_3KGi6,
+.gamepadpagedsettings_PagedSettingsDialog_PageListItem_1ix7r:focus, .gamepaddialog_BasicTextInput_3GCBi,
+.gamepaddialog_BasicTextInput_3GCBi:not(.disabled):not(.gpfocus):hover,
+.appproperties_AppProperties_1FyBL .appproperties_Checkbox_2V2nc, button.gamepaddialog_Button_1kn70.DialogButton,
+button.gamepaddialog_Button_1kn70.DialogButton.Primary, button.gamepaddialog_Button_1kn70.DialogButton:enabled,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled.Primary, button.gamepaddialog_Button_1kn70.DialogButton:active,
+button.gamepaddialog_Button_1kn70.DialogButton:active.Primary, button.gamepaddialog_Button_1kn70.DialogButton:hover,
+button.gamepaddialog_Button_1kn70.DialogButton:hover.Primary,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover.Primary,
+button.gamepaddialog_Button_1kn70.DialogButton.gpfocus,
+button.gamepaddialog_Button_1kn70.DialogButton:active,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled.gpfocus,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled:active,
+button.gamepaddialog_Button_1kn70.DialogButton:active.gpfocus,
+button.gamepaddialog_Button_1kn70.DialogButton:active:active,
+button.gamepaddialog_Button_1kn70.DialogButton:hover.gpfocus,
+button.gamepaddialog_Button_1kn70.DialogButton:hover:active,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover.gpfocus,
+button.gamepaddialog_Button_1kn70.DialogButton:enabled:active:hover:active,
+.gamepadpagedsettings_PagedSettingsDialog_PageListItem_1ix7r.gamepadpagedsettings_Active_22LLB,
+.gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocus,
+.gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocuswithin,
+.appproperties_AppProperties_1FyBL .DialogBody .appproperties_DlcGrid_3sXdO .appproperties_DlcHeader_1SKB0,
+.appproperties_AppProperties_1FyBL .DialogBody .appproperties_WorkshopGrid_2ZL5A .appproperties_WorkshopHeader_2TJyz,
+.apppartnereventspage_PartnerEvent_lwprN, .apppartnereventspage_PartnerEvent_lwprN,
+.BasicUI .downloads_SectionItem_1VNuY, .friendStatusHover.offline:hover, .friendStatusHover.offline.Friend_ContextMenuActive {
+    border: var(--subtle-border) solid 1px;
+}
+
+.gamepadpagedsettings_PagedSettingsDialog_PageListColumn_2EZ3o, .GamepadMode.friendlist.gpfocuswithin, .GamepadMode.friendlist {
+    border-right: var(--subtle-border) solid 1px;
+}
+
+.controllerconfigurator_TopSection_20sN9, .GamepadMode.friendlist.gpfocuswithin .FriendsListSteamDeckTopSection {
+    border-bottom: var(--subtle-border) solid 1px;
+}
+
+.gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocus,
+.gamepaddialog_Field_S-_La.gamepaddialog_HighlightOnFocus_wE4V6.gpfocuswithin,
+.dropdownlabel_DropDownLabelTitle_uDBZW, .gamepadtabbedpage_TabCount_1ui4I {
+    color: #fff !important;
+}
+
+.controllerconfigurator_BottomSection_3RsRf, .controllerconfigurator_TopSection_20sN9, .ChatHistorySelector,
+.quickaccessmenu_Tab_1S76C {
+    background-color: transparent;
+    background: transparent;
+}
+
+.BasicUI .downloads_SectionItem_1VNuY, .friendStatusHover {
+    animation: none;
+}
+
+/* special handling for tabbed content
+ specifically:
+   - sets background to black (focused if selected)
+   - sets border to black
+   - inverts text color to white
+ */
+.gamepadtabbedpage_Tab_3eEbS {
+    border: var(--focused-border) 0px solid;
+}
+.gamepadtabbedpage_Tab_3eEbS.gpfocus {
+    background: var(--focused-background);
+    color: #fff;
+    box-shadow: none;
+    border: var(--focused-border) solid 1px;
+}
+
+.gamepadhomerecentgames_RecentGamesBackgroundFadeGradient_1ksIq {
+    border-bottom: var(--subtle-border) 1px solid;
+}
